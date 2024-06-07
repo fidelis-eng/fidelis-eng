@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Wafiyulloh</h1>
+<h1 align="center">Hi 👋, I'm Wafi</h1>
 <h3 align="center">Passionate about Backend Development, Cloud Computing, and Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **Django Framework**
