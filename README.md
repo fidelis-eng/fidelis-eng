@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mwafiyulloh@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://shorturl.at/tlrkQ)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1XSQ23CEQHzXPW1EPsNpnl63PkoW-deEg/view?usp=sharing)
 
 - ⚡ Fun fact **I can speak a little bit Japanese :)**
 
