@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Django Framework and Docker**
 
-- 👨‍💻 All of my projects are available at [https://fidelis-eng.github.io/mwafi-portfolio/](https://fidelis-eng.github.io/mwafi-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://fidelis-eng.github.io/mwafi-portfolio/)
 
 - 📫 How to reach me **mwafiyulloh@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/tlrkQ](https://shorturl.at/tlrkQ)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/tlrkQ)
 
 - ⚡ Fun fact **I can speak a little bit Japanese :)**
 
